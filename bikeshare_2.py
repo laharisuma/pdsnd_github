@@ -193,6 +193,8 @@ def display_raw_data(df):
             print(df[row: row + 5])
             row= row + 5
         raw = input("Would you like to see more raw data? Enter yes or no. \n")
+
+#where all the methods will run
 def main():
     while True:
         city, month, day = get_filters()
