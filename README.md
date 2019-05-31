@@ -1,15 +1,18 @@
-### Date created
+05/31/19
 Include the date you created this project and README file.
 
-### Project Title
-Replace the Project Title
+Project Title
+Bikeshare stats
+
 
 ### Description
-Describe what your project is about and what it does
+Adding my Bikeshare project to GitHub
 
 ### Files used
-Include the files used
+Bikeshare.py, chicago.csv, washington.csv and new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://velotio.com/blog/2019/4/1/introduction-to-data-analysis-with-pandas
+https://www.geeksforgeeks.org/python-format-function/
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_string.html
+https://www.dataquest.io/blog/pandas-tutorial-python-2/
