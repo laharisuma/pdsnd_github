@@ -9,7 +9,7 @@ Bikeshare Stats
 Adding my Bikeshare project to GitHub
 
 ### Files used
-Bikeshare.py, chicago.csv, washington.csv and new_york_city.csv
+Bikeshare_2.py, chicago.csv, washington.csv and new_york_city.csv
 
 ### Credits
 https://velotio.com/blog/2019/4/1/introduction-to-data-analysis-with-pandas
